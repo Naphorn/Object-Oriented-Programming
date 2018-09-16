@@ -1,0 +1,6 @@
+/Users/gamgamms/Documents/OOP/OOP/OOP/bin/Debug/OOP.exe
+/Users/gamgamms/Documents/OOP/OOP/OOP/bin/Debug/OOP.pdb
+/Users/gamgamms/Documents/OOP/OOP/OOP/obj/x86/Debug/OOP.csprojAssemblyReference.cache
+/Users/gamgamms/Documents/OOP/OOP/OOP/obj/x86/Debug/OOP.csproj.CoreCompileInputs.cache
+/Users/gamgamms/Documents/OOP/OOP/OOP/obj/x86/Debug/OOP.exe
+/Users/gamgamms/Documents/OOP/OOP/OOP/obj/x86/Debug/OOP.pdb
